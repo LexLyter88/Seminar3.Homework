@@ -1,0 +1,14 @@
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\Workshop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\Workshop3.AssemblyInfoInputs.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\Workshop3.AssemblyInfo.cs
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\Workshop3.csproj.CoreCompileInputs.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\bin\Debug\net8.0\Workshop3.exe
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\bin\Debug\net8.0\Workshop3.deps.json
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\bin\Debug\net8.0\Workshop3.runtimeconfig.json
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\bin\Debug\net8.0\Workshop3.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\bin\Debug\net8.0\Workshop3.pdb
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\Workshop3.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\refint\Workshop3.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\Workshop3.pdb
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\Workshop3.genruntimeconfig.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop3\obj\Debug\net8.0\ref\Workshop3.dll
