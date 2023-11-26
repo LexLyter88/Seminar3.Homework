@@ -15,14 +15,14 @@ int[] FillArray(int size, int min, int max)
     return array;
 }
 
-void PrintCountArray(int[] arr)
+void PrintCountArray(int[] array)
 {
-    int count = 1;
+    int count = 0;
     System.Console.WriteLine();
-    for (int i = 0; i < arr.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        System.Console.Write(arr[i] + " ");
-        if (arr[i] >= 20 && arr[i] <= 90) count++;
+        System.Console.Write(array[i] + " ");
+        if ((array[i] >= 20) && (array[i] <= 90)) count++;
     }
     System.Console.WriteLine();
     System.Console.WriteLine($"Количество чисел из диапазона [20, 90] равно {count}");

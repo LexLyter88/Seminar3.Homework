@@ -12,3 +12,17 @@ C:\Users\yashn\Desktop\Обучение в GeekBrains\Знакомство с я
 C:\Users\yashn\Desktop\Обучение в GeekBrains\Знакомство с языками программирования\Семинар 3\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.pdb
 C:\Users\yashn\Desktop\Обучение в GeekBrains\Знакомство с языками программирования\Семинар 3\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.genruntimeconfig.cache
 C:\Users\yashn\Desktop\Обучение в GeekBrains\Знакомство с языками программирования\Семинар 3\Seminar3.Homework\Workshop1\obj\Debug\net8.0\ref\Workshop1.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\bin\Debug\net8.0\Workshop1.exe
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\bin\Debug\net8.0\Workshop1.deps.json
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\bin\Debug\net8.0\Workshop1.runtimeconfig.json
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\bin\Debug\net8.0\Workshop1.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\bin\Debug\net8.0\Workshop1.pdb
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.AssemblyInfoInputs.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.AssemblyInfo.cs
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.csproj.CoreCompileInputs.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\refint\Workshop1.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.pdb
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\Workshop1.genruntimeconfig.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop1\obj\Debug\net8.0\ref\Workshop1.dll
