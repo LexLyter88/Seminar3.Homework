@@ -1,0 +1,14 @@
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\bin\Debug\net8.0\Workshop4.exe
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\bin\Debug\net8.0\Workshop4.deps.json
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\bin\Debug\net8.0\Workshop4.runtimeconfig.json
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\bin\Debug\net8.0\Workshop4.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\bin\Debug\net8.0\Workshop4.pdb
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\Workshop4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\Workshop4.AssemblyInfoInputs.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\Workshop4.AssemblyInfo.cs
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\Workshop4.csproj.CoreCompileInputs.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\Workshop4.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\refint\Workshop4.dll
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\Workshop4.pdb
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\Workshop4.genruntimeconfig.cache
+C:\Users\yashn\Desktop\Seminar3.Homework\Workshop4\obj\Debug\net8.0\ref\Workshop4.dll
